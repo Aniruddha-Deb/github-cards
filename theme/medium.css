@@ -90,7 +90,7 @@ body.ready {
   color: #4183c4;
 }
 .user-card .header {
-  background-image: url("https://cdn-images-1.medium.com/max/2000/1*19LWzzJJDPqGq67Vyd0EjQ.jpeg");
+  background-color: #222222;
 }
 .user-card .User {
   background-position: top left;
